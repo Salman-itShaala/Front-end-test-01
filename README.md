@@ -1,8 +1,14 @@
 # Front-end-test-01
 Front end test 
 
+Instructions: 
+• Total Marks: 30  
+• Time Allowed: 1.5 Hours 
+• Note: Make sure to attempt all questions. 
+• Marks: Each question Carries 5 marks.
 
-Task: Implement a blog layout similar to the provided image.
+
+Task: Implement a blog layout similar to the provided image. (15 marks)
 
 
 Requirements:
@@ -24,15 +30,15 @@ The footer should have a purple background and white text, centered horizontally
 
 
 CSS Details:
-Use Flexbox 
+Use Flexbox wherever possible
 Use font family -  'Arial', sans-serif;
 
 
 
-Js
+Js - 15 marks
 
-1.Write a js function that will take a number as a input and Displays the multiplication table of that number (up to 10).
+1.Write a js function that will take a number as a input and Displays the multiplication table of that number (up to 10). [5 marks]
 
-2.Write a js function that will take input for a temperature in celsius from the user and convert that into Fahrenheit. ( fahrenheit = (celsius * 9/5) + 32 ).
+2.Write a js function that will take input for a temperature in celsius from the user and convert that into Fahrenheit. ( fahrenheit = (celsius * 9/5) + 32 ). [5 marks]
 
-3.Write a javascript function that will take a number input and display is it positive or negative.
+3.Write a javascript function that will take a number input and display is it positive or negative. [5 marks]
